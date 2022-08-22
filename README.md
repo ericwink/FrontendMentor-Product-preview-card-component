@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [TBD](#)
-- Live Site URL: [TBD](#)
+- Solution URL: [GitHub Repository](https://github.com/ericwink/FrontendMentor-Product-preview-card-component)
+- Live Site URL: [GitHub Pages](https://ericwink.github.io/FrontendMentor-Product-preview-card-component/)
 
 ## My process
 
