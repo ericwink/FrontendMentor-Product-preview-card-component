@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Solution](./images/solution-mobile.png)
-![Desktop Solution](./images/solution-desktop.png)
+![Mobile Solution](./images/solution-mobile.png, "Mobile Solution")
+![Desktop Solution](./images/solution-desktop.png, "Desktop Solution")
 
 ### Links
 
@@ -53,9 +53,9 @@ I want to continue building more complex projects and utilizing these skills to 
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/kepowob) - Kevin's channel is an excellent source for all things CSS
+- [Kevin Powell Youtube](https://www.youtube.com/kepowob) - Kevin's channel is an excellent source for all things CSS
 
 ## Author
 
 - Website - [Eric Winkelspecht](https://github.com/ericwink/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ericwink)
+- Frontend Mentor - [@ericwink](https://www.frontendmentor.io/profile/ericwink)
